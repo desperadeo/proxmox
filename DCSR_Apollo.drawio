@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Chassis Components" id="8N6g7hKUOKqAt7-88d3h">
+    <mxGraphModel dx="921" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="HPE Apollo w6000" c4Type="ContainerScopeBoundary" c4Application="DCSR" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="fEnai_8qc5GPSmgrc3BF-38">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=#f5f5f5;strokeColor=#666666;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontColor=#333333;" vertex="1" parent="1">
+            <mxGeometry x="102" y="67.5" width="510" height="400" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-36" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="157" y="158" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n01" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n03" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n05" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n07" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-6" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n09" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n11" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n13" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n15" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n17" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n19" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-12" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n21" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-13" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n23" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n02" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="160" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-16" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n04" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="180" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-17" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n06" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="200" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n08" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="220" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-19" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n10" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="240" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n12" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="260" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-21" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n14" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="280" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-22" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n16" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="300" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-23" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n18" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="320" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n20" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="340" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-25" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n22" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="360" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;co-apollo1-n24" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_c4140;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="392" y="380" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-31" value="&lt;span style=&quot;background-color: rgb(128, 128, 128);&quot;&gt;&amp;nbsp;Data Switch&amp;nbsp;&lt;/span&gt;" style="shape=mxgraph.rack.cisco.cisco_ucs_c22_m3_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;rotation=90;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="302" y="270" width="161" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-32" value="&lt;span style=&quot;background-color: rgb(128, 128, 128);&quot;&gt;Fabric Switch&lt;/span&gt;" style="shape=mxgraph.rack.cisco.cisco_ucs_c22_m3_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;rotation=90;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="285" y="270" width="161" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-33" value="&lt;span style=&quot;background-color: rgb(128, 128, 128);&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;Fabric Switch&lt;/font&gt;&lt;/span&gt;" style="shape=mxgraph.rack.cisco.cisco_ucs_c22_m3_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;rotation=90;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="268" y="270" width="161" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-34" value="&lt;span style=&quot;background-color: rgb(128, 128, 128);&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;&amp;nbsp; Data Switch&lt;/font&gt;&lt;/span&gt;" style="shape=mxgraph.rack.cisco.cisco_ucs_c22_m3_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;rotation=90;verticalLabelPosition=middle;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="251" y="270" width="161" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnai_8qc5GPSmgrc3BF-35" value="&lt;font style=&quot;background-color: rgb(128, 128, 128);&quot; color=&quot;#ffffff&quot;&gt;&amp;nbsp; APM&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="shape=mxgraph.rack.cisco.cisco_ucs_c220_m3_server;html=1;labelPosition=center;align=center;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="322" y="160" width="70" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

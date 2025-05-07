@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="-CG1jMVdUSGLdBsq8M7J">
+    <mxGraphModel dx="733" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-1" value="VSAN DATASTORE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="174" y="760" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-2" value="ESXi Host" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.server;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="173.2" y="690" width="121.6" height="38.8" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-3" value="ESXi Host" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.server;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="353.2" y="690" width="121.6" height="38.8" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-4" value="ESXi Host" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.server;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="533.2" y="690" width="121.6" height="38.8" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-5" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;" parent="1" vertex="1">
+          <mxGeometry x="506" y="840" width="57.2" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-6" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" parent="1" vertex="1">
+          <mxGeometry x="186" y="840" width="57.2" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-7" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;" parent="1" vertex="1">
+          <mxGeometry x="586" y="840" width="57.2" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-8" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" parent="1" vertex="1">
+          <mxGeometry x="266" y="840" width="57.2" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-9" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;" parent="1" vertex="1">
+          <mxGeometry x="346" y="840" width="57.2" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-10" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;" parent="1" vertex="1">
+          <mxGeometry x="426" y="840" width="57.2" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-11" value="vSAN Network (VLAN 1260)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDA2BE;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="54" y="640" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-12" value="Management Network (VLAN 1271)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97B9FC;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="54" y="590" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-13" value="Backup Network (VLAN 1261)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="54" y="540" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-14" value="vMotion / vReplication Network (VLAN 1262)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="54" y="490" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-16" value="Fault Tolerance / vCenter HA Network (VLAN 1263)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="54" y="440" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eGOTJ3KJKLR61RyaQ-zh-17" target="eGOTJ3KJKLR61RyaQ-zh-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eGOTJ3KJKLR61RyaQ-zh-17" target="eGOTJ3KJKLR61RyaQ-zh-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eGOTJ3KJKLR61RyaQ-zh-17" target="eGOTJ3KJKLR61RyaQ-zh-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="573.2" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-17" value="Virtual Machine Network&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9C9B8;strokeColor=#82b366;fontStyle=1;fontColor=#424242;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="54" y="390" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-18" value="Internal Network&amp;nbsp; (VLAN 1272)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#EA3A1E;" parent="1" vertex="1">
+          <mxGeometry x="173.2" y="240" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-22" value="External Network (VLAN 1269)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#EA3A1E;" parent="1" vertex="1">
+          <mxGeometry x="349" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-25" value="HA Network&amp;nbsp;&lt;div&gt;(VLAN 1264)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="506.00000000000006" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eGOTJ3KJKLR61RyaQ-zh-32" value="LAB DCSR - VMware Network" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="294.8" y="130" width="245.2" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
